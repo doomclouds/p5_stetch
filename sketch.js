@@ -54,6 +54,6 @@ function draw() {
     const v = vertices[i];
     fill(255);
     stroke(255);
-    ellipse(v.x, v.y, 16, 16)
+    ellipse(v.x, v.y, 6, 6)
   }
 }
